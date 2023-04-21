@@ -1,0 +1,22 @@
+﻿  oladoc.cpp
+F:\OOP Project\oop\oop\doctor.h(450,13): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\doctor.h(490,11): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\doctor.h(350,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+F:\OOP Project\oop\oop\appointment.h(295,11): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\appointment.h(300,11): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\appointment.h(334,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+F:\OOP Project\oop\oop\patient.h(244,11): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\patient.h(259,13): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\admin.h(135,13): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(99,12): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(116,13): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(120,14): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(165,11): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(193,15): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(195,15): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(282,15): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(284,15): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(372,15): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(374,15): warning C4129: ' ': unrecognized character escape sequence
+F:\OOP Project\oop\oop\user.h(456,11): warning C4129: ' ': unrecognized character escape sequence
+  oop.vcxproj -> F:\OOP Project\oop\x64\Debug\oop.exe
